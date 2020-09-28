@@ -1,4 +1,6 @@
-<img src="/assets/inicio.png" alt="Logo" align="center" />
+<p align="center">
+<img align="center" src="/assets/inicio.png" alt="Logo"/>
+</p>
 
 # Sewer Scape
 

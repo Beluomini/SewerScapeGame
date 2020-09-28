@@ -18,10 +18,10 @@
 - Numeros: Seleciona o personagem
   - 1 - Esquisofrênico
   - 2 - Deficiente Físico
-  - 2 - Anão
+  - 3 - Anão
     
 ### Desenvolvedores
-| [<img src="https://avatars0.githubusercontent.com/u/37910256?s=460&u=f942c595c5860fe4fc6bedd60cb72e3e95c04db2&v=4" width=115 > <br> <sub> Lucas Beluomini </sub>](https://github.com/Beluomini)|<sub> Thais Tiemi </sub>]|<sub> Davi Vinter Cardoso </sub>]|
+| [<img src="https://avatars0.githubusercontent.com/u/37910256?s=460&u=f942c595c5860fe4fc6bedd60cb72e3e95c04db2&v=4" width=115 > <br> <sub> Lucas Beluomini </sub>](https://github.com/Beluomini)|<sub> Thais Tiemi </sub>|<sub> Davi Vinter Cardoso </sub>|
 | :---: | :---: | :---: |
 
 ### Status do Projeto
